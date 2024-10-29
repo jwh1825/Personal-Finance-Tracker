@@ -1,0 +1,27 @@
+date,amount,category,description
+01-07-2024,125.0,Income,Side Gig
+02-07-2024,175.5,Expense,Groceries
+03-07-2024,900.0,Income,Salary
+04-07-2024,150.0,Expense,Transport
+05-07-2024,200.0,Income,Freelance
+06-07-2024,250.0,Expense,Utilities
+07-07-2024,500.0,Income,Bonus
+08-07-2024,130.0,Expense,Coffee
+09-07-2024,300.0,Income,Gifts
+10-07-2024,160.0,Expense,Entertainment
+11-07-2024,400.0,Income,Freelance
+12-07-2024,225.65,Expense,Subscription
+13-07-2024,750.0,Income,Salary
+14-07-2024,140.0,Expense,Gas
+15-07-2024,500.0,Income,Contract
+16-07-2024,190.0,Expense,Dining Out
+17-07-2024,800.0,Income,Salary
+18-07-2024,350.5,Expense,Shopping
+19-07-2024,300.0,Income,Side Gig
+20-07-2024,235.0,Expense,Health
+21-07-2024,400.0,Income,Freelance
+22-07-2024,160.0,Expense,Parking
+23-07-2024,600.0,Income,Contract
+24-07-2024,225.0,Expense,Gym
+25-07-2024,350.0,Income,Freelance
+
